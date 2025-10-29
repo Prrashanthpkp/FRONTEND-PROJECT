@@ -1,0 +1,5 @@
+/* small spacing helpers */
+body { background: #f8f9fa; }
+.card { border-radius: 8px; }
+/* modal backdrop fix for simplistic modal in Tasks edit */
+.modal { background: rgba(0,0,0,0.35); }
